@@ -161,6 +161,15 @@ button {
     gap: 10px;
 }
 
+/* add icons to each card */
+.icons {
+    width: 100%;
+    display: flex;
+    padding-top: 30px;
+    justify-content: flex-end;
+    gap: 15px;
+}
+
 .trending-content img {
     height: 40px;
     width: 40px;
