@@ -17,6 +17,11 @@ ul {
     list-style: none;
 }
 
+/* change cursor to pointer whenever hovering an image */
+img {
+    cursor: pointer;
+}
+
 .container {
     display: grid;
     grid-template-columns: 1fr 4fr;
